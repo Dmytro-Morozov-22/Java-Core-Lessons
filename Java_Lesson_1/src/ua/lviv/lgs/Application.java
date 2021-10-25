@@ -86,30 +86,26 @@ public class Application {
 		 * 3: System.out.println("3"); break; default: System.out.println("default"); }
 		 */
 
-		
 //Приклад 10:	цикл for
-		
+
 		/*
 		 * for(int i = 0; i < 10; i++) { System.out.println("i = " + i); }
 		 */
-		
-		
+
 //Приклад 11:	цикл while
-		
-		//int i = 0;
-		
+
+		// int i = 0;
+
 		/*
 		 * while(i < 10) { System.out.println("j = " + i); i++; }
 		 */
-		
-		
+
 		/*
 		 * do { System.out.println("do = " + i); i++; }while (i == 10);
 		 */
-		
-		
+
 //Приклад 11: Масиви
-		
+
 		/*
 		 * int array1 [] = new int [10]; double [] array2 = new double [10]; double
 		 * array3 [] = {1.1, 2.2, 3.3, 4.4, 5.5};
@@ -122,12 +118,9 @@ public class Application {
 		 * for (int i = 0; i < array3.length; i++) { System.out.println(array3[i] +
 		 * " array 3"); }
 		 */
-		
-		
-		
+
 //Приклад 12: Обгортки примітивів
-		
-		
+
 		/*
 		 * Byte a1 = 3; Short a2 = 4; Integer a3 = 2; Long a4 = 2L;
 		 * 
@@ -135,30 +128,9 @@ public class Application {
 		 * 
 		 * Double b = 2.2; Float b1 = 2.3F;
 		 */
-		
-		
+
 		System.out.println("Byte = " + Byte.MAX_VALUE);
 		System.out.println("Byte = " + Byte.MIN_VALUE);
-		
-		
-		
-		
-		
-		
-		
+
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
