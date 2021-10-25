@@ -131,7 +131,7 @@ public class Application {
 
 		System.out.println("Byte = " + Byte.MAX_VALUE);
 		System.out.println("Byte = " + Byte.MIN_VALUE);
-		//First 
+		
 
 	}
 }
